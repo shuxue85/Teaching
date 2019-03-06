@@ -3,4 +3,9 @@
 
 Slides are updated at the end of each chapter.
 
-## Misc
+## Assignments
+3.6 作业 习题6.1第2题
+3.4作业  129页综合习题5的11,12,13,14,15要求有过程.
+2.25作业 习题5.2 2奇数  习题5.3 1,3,5
+
+
